@@ -1,0 +1,14 @@
+# About Me
+
+dear, I'm Faisal alqasem ,I'm a software engineer . In my free time, I enjoy to designing , playing video games, and making videos.
+
+# my Skills
+
+- Html
+- css
+- JavaScript
+- java
+
+## Education
+
+- highr deploma in software engineer from LTUC University.
